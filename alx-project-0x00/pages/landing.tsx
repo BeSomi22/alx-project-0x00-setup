@@ -23,7 +23,7 @@ const Landing: React.FC =()=>{
           <div className="flex justify-center gap-4">
             <Button title="Rounded-sm" styles="px-4 py-2 rounded-sm" />
             <Button title="Rounded-md" styles="px-4 py-2 rounded-md" />
-            <Button title="Rounded-full" styles="px-4 py-2 rounded-full" />
+            <Button title="Rounded-lg" styles="px-4 py-2 rounded-lg" />
           </div>
         </div>
       </div>
